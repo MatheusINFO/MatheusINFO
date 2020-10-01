@@ -28,5 +28,5 @@
 
 <h3 align="center">Um pouco mais sobre meu git</h1>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusinfo&theme=cobalt" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusinfo&show_icons=true&hide=contribs,issues&theme=cobalt" />
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusinfo&theme=cobalt" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusinfo&show_icons=true&hide=contribs,issues&theme=cobalt" /></div>
