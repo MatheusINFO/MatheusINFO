@@ -6,14 +6,12 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🏫 I'm a 3rd year Computer Science student, and I will be graduating in May 2021 😎
+- 🏫 Estou no 5º periodo do curso de informática 😎
 
-- 🔭 I’m currently working on my final year project
+- 🌱 Atualmente estou estudando sobre, ReactJS, NodeJS e também sobre TDD
 
-- 🌱 I’m currently learning Serverless, Progressive Web Apps and UX Design
-
-- 👨‍💻 Some of my projects are available here --> <code><a href="https://github.com/mkredzel" title="GitHub Profile"><img width="22" src="https://b.thumbs.redditmedia.com/AltCa25flSy96k0VDTcXUseNPu25FWaInEl1LOvkbqs.png"> GitHub</a></code>
-[](https://github.com/mkredzel)
+- 👨‍💻 Todos os meus projetos de estudo estão aqui no git --> <code><a href="https://github.com/matheusinfo" title="GitHub Profile"><img width="22" src="https://b.thumbs.redditmedia.com/AltCa25flSy96k0VDTcXUseNPu25FWaInEl1LOvkbqs.png"> GitHub</a></code>
+[](https://github.com/matheusinfo)
 
 - 📫 Let's connect! --> <code><a href="https://www.linkedin.com/in/mkredzel/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
 <br><br>
