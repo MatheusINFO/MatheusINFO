@@ -12,6 +12,7 @@
 - 📫 Vamos se conectar!  <code><a href="https://www.linkedin.com/in/matheus-andrade-55024b160/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"></a></code>
 <br><br>
 
+/*
 <h3 align="center">Tecnologias que não sou um completo bot xD</h1>
  
 <p align="center">
@@ -25,6 +26,7 @@
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 </code>
 </p>
+*/
 
 <h3 margin-left:"150px">Um pouco mais sobre meu git</h1>
 
