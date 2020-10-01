@@ -6,7 +6,7 @@
 
 - 🌱 Atualmente estou estudando sobre ReactJS, NodeJS e também sobre TDD
 
-- 👨‍💻 Todos os meus projetos de estudo estão aqui no git <code><a href="https://github.com/matheusinfo" title="GitHub Profile"><img width="22" src="https://b.thumbs.redditmedia.com/AltCa25flSy96k0VDTcXUseNPu25FWaInEl1LOvkbqs.png"></a></code>
+- 👨‍💻 Todos os meus projetos de estudo estão aqui no git <code><a href="https://github.com/matheusinfo" title="GitHub Profile"><img width="30" src="https://img2.gratispng.com/20180716/tza/kisspng-github-computer-icons-clip-art-gits-5b4d20ab1f4131.145288281531781291128.jpg"></a></code>
 [](https://github.com/matheusinfo)
 
 - 📫 Vamos se conectar!  <code><a href="https://www.linkedin.com/in/matheus-andrade-55024b160/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"></a></code>
