@@ -1,19 +1,15 @@
 <h1 align="center">Olá, eu sou o Matheus 👋</h1>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=matheusinfo=Profile+Views" />
-</p>
-
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 🏫 Estou no 5º periodo do curso de informática 😎
 
 - 🌱 Atualmente estou estudando sobre, ReactJS, NodeJS e também sobre TDD
 
-- 👨‍💻 Todos os meus projetos de estudo estão aqui no git --> <code><a href="https://github.com/matheusinfo" title="GitHub Profile"><img width="22" src="https://b.thumbs.redditmedia.com/AltCa25flSy96k0VDTcXUseNPu25FWaInEl1LOvkbqs.png"> GitHub</a></code>
+- 👨‍💻 Todos os meus projetos de estudo estão aqui no git --> <code><a href="https://github.com/matheusinfo" title="GitHub Profile"><img width="22" src="https://b.thumbs.redditmedia.com/AltCa25flSy96k0VDTcXUseNPu25FWaInEl1LOvkbqs.png"></a></code>
 [](https://github.com/matheusinfo)
 
-- 📫 Let's connect! --> <code><a href="https://www.linkedin.com/in/mkredzel/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
+- 📫 Vamos se conectar!  <code><a href="https://www.linkedin.com/in/matheus-andrade-55024b160/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"></a></code>
 <br><br>
 
 <h1 align="left">Technologies</h1>
