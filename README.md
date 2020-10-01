@@ -26,7 +26,9 @@
 </code>
 </p>
 
-<h3 align="center">Um pouco mais sobre meu git</h1>
+<h3 margin-left:"150px">Um pouco mais sobre meu git</h1>
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusinfo&theme=cobalt" /></div>
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusinfo&show_icons=true&hide=contribs,issues&theme=cobalt" /></div>
+<div display="flex" flexDirection="column">
+ <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusinfo&theme=cobalt" /></div> 
+ <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusinfo&show_icons=true&hide=contribs,issues&theme=cobalt" /></div>
+ </div>
