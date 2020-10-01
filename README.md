@@ -4,7 +4,7 @@
 
 - 🏫 Estou no 5º periodo do curso de informática 😎
 
-- 🌱 Atualmente estou estudando sobre, ReactJS, NodeJS e também sobre TDD
+- 🌱 Atualmente estou estudando sobre ReactJS, NodeJS e também sobre TDD
 
 - 👨‍💻 Todos os meus projetos de estudo estão aqui no git <code><a href="https://github.com/matheusinfo" title="GitHub Profile"><img width="22" src="https://b.thumbs.redditmedia.com/AltCa25flSy96k0VDTcXUseNPu25FWaInEl1LOvkbqs.png"></a></code>
 [](https://github.com/matheusinfo)
