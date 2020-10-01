@@ -11,7 +11,7 @@
 - 📫 Vamos se conectar!  <code><a href="https://www.linkedin.com/in/matheus-andrade-55024b160/" title="LinkedIn Profile">Linkedin</a></code>
 <br><br>
 
-<h3 margin-left:"150px">:octocat: Um pouco mais sobre meu git</h3>
+<h3 marginLeft:"150px">:octocat: Um pouco mais sobre meu git</h3>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusinfo&theme=cobalt" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusinfo&show_icons=true&hide=contribs,issues&theme=cobalt" />
