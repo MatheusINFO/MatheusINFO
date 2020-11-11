@@ -4,12 +4,10 @@
 
 - 🏫 Atualmente no 5º periodo do curso de informática 😎
 
-- 🌱 Atualmente estou estudando sobre ReactJS, NodeJS e também sobre o uso de TDD
+- 🌱 Estou estudando sobre ReactJS, NodeJS e também sobre o uso de TDD
 
 - 👨‍💻 Todos os meus projetos de estudo estão aqui no meu git: <code><a align="center" href="https://github.com/MatheusINFO?tab=repositories"><strong>Ver Projetos</strong></a></code>
 
-- 📫 Vamos se conectar!  <code><a href="https://www.linkedin.com/in/matheus-andrade-55024b160/" title="LinkedIn Profile"><strong>Conectar</strong></a></code>
-<br><br>
 
 <h3 marginLeft:"150px">:octocat: Um pouco mais sobre meu git</h3>
 
