@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🏫 Atualmente no 5º periodo do curso de informática 😎
+- 🏫 Atualmente no 6º periodo do curso de informática 😎
 
 - 🌱 Estou estudando sobre ReactJS, NodeJS e também sobre o uso de TDD
 
