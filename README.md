@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Matheus 👋</h1>
 
-<img align='right' src="https://www.fabiosilvalima.net/wp-content/uploads/2017/04/fabiosilvalima-notfound.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 🏫 Atualmente no 6º periodo do curso de informática 😎
 
