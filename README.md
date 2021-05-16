@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 🏫 Atualmente no 6º periodo do curso de informática 😎
+- 🏫 Atualmente no 7º periodo do curso de informática 😎
 
-- 🌱 Estou estudando sobre ReactJS, NodeJS e também sobre o uso de TDD
+- 🌱 Estou estudando sobre as stacks ReactJS e NodeJS.
 
 - 👨‍💻 Todos os meus projetos de estudo estão aqui no meu git: <code><a align="center" href="https://github.com/MatheusINFO?tab=repositories"><strong>Ver Projetos</strong></a></code>
 
