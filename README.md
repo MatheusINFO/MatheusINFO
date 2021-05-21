@@ -1,16 +1,11 @@
-<h1 align="center">Olá, eu sou o Matheus 👋</h1>
+<img src="https://user-images.githubusercontent.com/48860569/119158366-848b9680-ba2c-11eb-85d9-26f734ab20da.png" width="220px" align="right" alt="me">
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p align="left"> 
+  Olá, meu nome é Matheus, atualmente estou no 4º ano da faculdade de Informática e trabalho como Desenvolvedor Web :D<br>
+</p>
 
-- 🏫 Atualmente no 7º periodo do curso de informática 😎
+<p align="left">
+  Todos meus projetos estão aqui no GitHub <strong>@MatheusINFO</strong><br><br>
+</p>
 
-- 🌱 Estou estudando sobre as stacks ReactJS e NodeJS.
-
-- 👨‍💻 Todos os meus projetos de estudo estão aqui no meu git: <code><a align="center" href="https://github.com/MatheusINFO?tab=repositories"><strong>Ver Projetos</strong></a></code>
-
-
-<h3 marginLeft:"150px">:octocat: Um pouco mais sobre meu git</h3>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusinfo&theme=cobalt" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusinfo&show_icons=true&hide=contribs,issues&theme=cobalt" />
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=matheusinfo&show_icons=true&theme=gotham" alt="matheusinfo" />
