@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  Todos meus projetos estão aqui no GitHub <strong>@MatheusINFO</strong><br><br>
+  Todos meus projetos estão aqui no GitHub <strong>@MatheusINFO</strong><br>
 </p>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=matheusinfo&show_icons=true&theme=gotham" alt="matheusinfo" />
